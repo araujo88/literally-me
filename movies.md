@@ -1,22 +1,23 @@
 # Movies
 
-  - joker
-  - fight club
-  - drive
-  - american psycho
-  - taxi driver
-  - blade runner 2049
-  - nightcrawler
-  - birdman
-  - the machinist
-  - no country for bad men
-  - el camino
-  - nobody
-  - true detective
-  - You were never really here
-  - into the wild
-  - sicario
-  - the wall
-  - the batman
-  - man on fire
-  - the equalizer
+  - joker (2019)
+  - fight club (1999)
+  - drive (2012)
+  - american psycho (2000)
+  - taxi driver (1976)
+  - blade runner 2049 (2017)
+  - nightcrawler (2014)
+  - birdman (2014)
+  - the machinist (2004)
+  - no country for old men (2004)
+  - el camino (2019)
+  - nobody (2021)
+  - true detective (2014)
+  - you were never really here (2017)
+  - into the wild (2007)
+  - sicario (2015)
+  - the wall (1982)
+  - the batman (2022)
+  - man on fire (2004)
+  - the equalizer (2014)
+  - whiplash (2014)
