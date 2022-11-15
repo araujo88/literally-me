@@ -1,0 +1,22 @@
+# Movies
+
+  - joker
+  - fight club
+  - drive
+  - american psycho
+  - taxi driver
+  - blade runner 2049
+  - nightcrawler
+  - birdman
+  - the machinist
+  - no country for bad men
+  - el camino
+  - nobody
+  - true detective
+  - You were never really here
+  - into the wild
+  - sicario
+  - the wall
+  - the batman
+  - man on fire
+  - the equalizer
