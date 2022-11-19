@@ -26,3 +26,4 @@
   - the matrix (1999)
   - trainspotting (1996)
   - scarface (1983)
+  - logan (2017)
