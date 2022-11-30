@@ -5,3 +5,4 @@
    - better call saul (2015)
    - the boys (2019)
    - peaky blinders (2013)
+   - the walking dead (2010)
