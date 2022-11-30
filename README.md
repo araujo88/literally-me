@@ -1,2 +1,2 @@
 # literally-me
-"Literally me" movies, series and anime lists. Feel free to contribute.
+"Literally me" (recurring theme revolving around a broken, loner and/or stereotypical sigma male) movies, series and anime lists. Feel free to contribute.
